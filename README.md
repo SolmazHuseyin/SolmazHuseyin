@@ -24,12 +24,6 @@ I specialize in building large-scale data infrastructures and automating complex
 - **Scaling Global Systems:** Managing a $1M global tool (IMIP) serving 30+ country affiliates and 130+ integrated distributors.
 - **AI Orchestration:** Using Cursor and Claude 3.5 to rapidly prototype internal tools and streamline ETL workflows.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolmazHuseyin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="SolmazHuseyin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolmazHuseyin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
 
 ## 📫 Let's Connect
 
